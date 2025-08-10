@@ -1,4 +1,3 @@
-
 const coins = {
     doge: {
         name: "Dogecoin",
